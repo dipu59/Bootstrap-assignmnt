@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+body{
+    font-family: "Quicksand", sans-serif;
+    
+}
+.first_button{
+    background-color: #FE8C45;
+    color: white;
+    border-radius: 20px;
+    border: none;
+}
+#home{
+    margin-left: 200px;
+}
+#firstdiv{
+   position: relative;
+}
+.color{
+    top: -40px;
+    display: inline;
+    position: absolute;
+}
+.h0{
+
+    font-weight: 600;
+    margin-top: -100px;
+    font-size:50px ;
+   
+
+    
+}
+
+.in{
+    color: #8A47F6;
+}
+
+.hrline{
+    width: 200px;
+    height: 20px;
+    border-radius: 20pc;
+    display: inline-block;
+    background-color: #8A47F6;
+    margin-left: 50px;
+}
+#capturing{
+    position: relative;
+    margin-top: -150px;
+}
+#button2{
+    background-color: #FE8C45;
+    color: white;
+    border: none;
+    border-radius: 30px;
+}
+
+.blue{
+    position: relative;
+    margin-top: -330px;
+
+}
+#carouselExampleControls{
+    align-content: end;
+    margin-left: 600px;
+    margin-top: 40px;
+
+}
